@@ -1,5 +1,10 @@
 # CL_scraper
-This is a dead-simple scraper for Craigslist using Python, ChromeDriver, and Selenium.
+This is a dead-simple scraper for Craigslist using Python, ChromeDriver, and Selenium. 
+
+The purpose of this tool is to iterate through Craigslist and search for items one might want. Here we look for
+the string 'ikea'. We are guaranteed to find something. 
+
+To run:
 
 Set up a virtual environment on your flavor of Ubuntu. 
 
@@ -10,7 +15,7 @@ for me, I use `sudo apt install python3-pip`
 
 If you use this, make sure to install the correct version of python. 
 
-navigate to http://chromedriver.chromium.org/downloads and download the latest version of chromedriver for Ubuntu
+Navigate to http://chromedriver.chromium.org/downloads and download the latest version of chromedriver for Ubuntu
 
 Often, you might get an error where chrome driver will fail to connect to a website with status connection of 200.
 It is important to remember to update the chromedriver binary every once in a while. You don't know how many
