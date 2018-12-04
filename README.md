@@ -18,8 +18,6 @@ times I have painstakingly gone through the code base only to realize that the e
 
 You have been warned. 
 
-Activate your virtual environment and go `python3.6 CL_scraper.py`... 
-
-Boom! It works!
+Activate your virtual environment and go `python3.6 CL_scraper.py <input url. ex. https://portland.craigslist.org>`... 
 
 Any questions hit me up on here. 
