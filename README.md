@@ -1,8 +1,8 @@
 # CL_scraper
-This is a dead-simple scraper for Craigslist using Python, ChromeDriver, and Selenium. 
+This is a dead-simple scraper for Craigslist using Python, ChromeDriver, and Selenium. The purpose is largely to demonstrate the relationship between python, selenium, and chromedriver. 
 
-The purpose of this tool is to iterate through Craigslist and search for items one might want. Here we look for
-the string 'ikea'. We are guaranteed to find something. 
+The purpose of this tool is to paginate through Craigslist and search for items one might want. Here we look for
+the string 'ikea'. We are guaranteed to find something as people just throw that stuff away or toss it on CL. 
 
 To run:
 
